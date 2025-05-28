@@ -2,6 +2,7 @@
 import './App.css'
 import Bmi from './components/Bmi'
 import Exercises from './components/Exercises'
+import Footer from './components/Footer'
 import Habits from './components/Habits'
 import Hero from './components/Hero'
 import Navbar from './components/Navbar'
@@ -20,6 +21,7 @@ function App() {
     <Exercises></Exercises>
     <Bmi></Bmi>
     <Team></Team>
+    <Footer></Footer>
    </div>
   )
 }
