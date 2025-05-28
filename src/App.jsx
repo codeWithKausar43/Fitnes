@@ -6,6 +6,7 @@ import Habits from './components/Habits'
 import Hero from './components/Hero'
 import Navbar from './components/Navbar'
 import Run from './components/Run'
+import Team from './components/Team'
 
 function App() {
  
@@ -18,6 +19,7 @@ function App() {
     <Run></Run>
     <Exercises></Exercises>
     <Bmi></Bmi>
+    <Team></Team>
    </div>
   )
 }
