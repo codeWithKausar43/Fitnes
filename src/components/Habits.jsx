@@ -36,6 +36,7 @@ const Habits = () => {
             <img className="rounded-full border-gray-500 border-3" src={image2} alt="" />
             <h6 className="text-xl font-semibold text-white">Movement</h6>
             <p className="text-gray-500">We believe fitness should be accessible to everyone</p>
+           
         </div>
         </div>
       </div>
