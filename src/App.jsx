@@ -1,5 +1,7 @@
  
 import './App.css'
+import Bmi from './components/Bmi'
+import Exercises from './components/Exercises'
 import Habits from './components/Habits'
 import Hero from './components/Hero'
 import Navbar from './components/Navbar'
@@ -14,6 +16,8 @@ function App() {
     <Hero></Hero>
     <Habits></Habits>
     <Run></Run>
+    <Exercises></Exercises>
+    <Bmi></Bmi>
    </div>
   )
 }
