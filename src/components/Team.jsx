@@ -9,46 +9,47 @@ const Team = () => {
           regardless of income or access to a gym.
         </p>
       </div>
-      <div className="bg-gray-400 grid grid-cols-3 gap-8 p-5">
+      <div className="bg-gray-400 grid grid-cols-3 gap-8 p-5  rounded-2xl">
         <div className="relative flex flex-col inset-0 justify-center items-center">
             <img className="rounded-xl" src={image1} alt="" />
             <div className="absolute">
-                <h3 className="text-xl text-red-400">kausar Ahammed</h3>
+                <h3 className="text-xl text-green-400 font-bold ">kausar Ahammed</h3>
+               
                 <p className="">Lorem, ipsum.</p>
             </div>
         </div>
      <div className="relative flex flex-col inset-0 justify-center items-center">
             <img className="rounded-xl" src={image1} alt="" />
             <div className="absolute">
-                <h3 className="text-xl text-red-400">kausar Ahammed</h3>
+                <h3 className="text-xl text-green-400 font-bold ">kausar Ahammed</h3>
                 <p className="">Lorem, ipsum.</p>
             </div>
         </div>
         <div className="relative flex flex-col inset-0 justify-center items-center">
             <img className="rounded-xl" src={image1} alt="" />
             <div className="absolute">
-                <h3 className="text-xl text-red-400">kausar Ahammed</h3>
+                <h3 className="text-xl text-green-400 font-bold ">kausar Ahammed</h3>
                 <p className="">Lorem, ipsum.</p>
             </div>
         </div>
         <div className="relative flex flex-col inset-0 justify-center items-center">
             <img className="rounded-xl" src={image1} alt="" />
             <div className="absolute">
-                <h3 className="text-xl text-red-400">kausar Ahammed</h3>
+                <h3 className="text-xl text-green-400 font-bold ">kausar Ahammed</h3>
                 <p className="">Lorem, ipsum.</p>
             </div>
         </div>
         <div className="relative flex flex-col inset-0 justify-center items-center">
             <img className="rounded-xl" src={image1} alt="" />
             <div className="absolute">
-                <h3 className="text-xl text-red-400">kausar Ahammed</h3>
+                <h3 className="text-xl text-green-400 font-bold ">kausar Ahammed</h3>
                 <p className="">Lorem, ipsum.</p>
             </div>
         </div>
         <div className="relative flex flex-col inset-0 justify-center items-center">
             <img className="rounded-xl" src={image1} alt="" />
             <div className="absolute">
-                <h3 className="text-xl text-red-400">kausar Ahammed</h3>
+                <h3 className="text-xl text-green-400 font-bold ">kausar Ahammed</h3>
                 <p className="">Lorem, ipsum.</p>
             </div>
         </div>
