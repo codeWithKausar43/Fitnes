@@ -15,7 +15,7 @@ function App() {
   return (
    <div className='bg-black'>
     <Navbar></Navbar>
-    <Hero></Hero>
+    <Hero></Hero> 
     <Habits></Habits>
     <Run></Run>
     <Exercises></Exercises>

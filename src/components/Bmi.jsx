@@ -1,7 +1,9 @@
 const Bmi = () => {
   return (
     <div className="bg-gray-500 mt-12">
+       <h3 className="text-center pt-6 text-3xl font-bold text-white">BMI Calculator</h3>
       <div className="max-w-7xl mx-auto py-12 flex justify-between items-center">
+       
         <div>
           <h3 className="text-lg text-white">BMI Calculator Chart</h3>
           <div className=" grid grid-cols-2 text-gray-400">
